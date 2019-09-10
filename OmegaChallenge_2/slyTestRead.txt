@@ -1,0 +1,89 @@
+PASS oauth:nlodm1wfq3ohrh0iw41eebqhbdyc30
+NICK mammetbot
+JOIN #slyakagreyfox
+
+:tmi.twitch.tv 001 mammetbot :Welcome, GLHF!
+
+:tmi.twitch.tv 002 mammetbot :Your host is tmi.twitch.tv
+
+:tmi.twitch.tv 003 mammetbot :This server is rather new
+
+:tmi.twitch.tv 004 mammetbot :-
+
+:tmi.twitch.tv 375 mammetbot :-
+
+:tmi.twitch.tv 372 mammetbot :You are in a maze of twisty passages, all alike.
+
+:tmi.twitch.tv 376 mammetbot :>
+
+:mammetbot!mammetbot@mammetbot.tmi.twitch.tv JOIN #slyakagreyfox
+
+:mammetbot.tmi.twitch.tv 353 mammetbot = #slyakagreyfox :mammetbot
+
+:mammetbot.tmi.twitch.tv 366 mammetbot #slyakagreyfox :End of /NAMES list
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :Also...
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :!hey @everyone
+
+:margaretbot!margaretbot@margaretbot.tmi.twitch.tv PRIVMSG #slyakagreyfox :slyHey slyHey @everyone
+
+:veylind!veylind@veylind.tmi.twitch.tv PRIVMSG #slyakagreyfox :slyHey slyHey @Malzian
+
+:nitefyre410!nitefyre410@nitefyre410.tmi.twitch.tv PRIVMSG #slyakagreyfox :whats up Mal
+
+:thedrakonlord!thedrakonlord@thedrakonlord.tmi.twitch.tv PRIVMSG #slyakagreyfox :Hey mal
+
+:dojel!dojel@dojel.tmi.twitch.tv PRIVMSG #slyakagreyfox :@Malzian Hi Mal
+
+:vartio!vartio@vartio.tmi.twitch.tv PRIVMSG #slyakagreyfox :We need more J-Ark theme in our animes
+
+:luciangkaiser!luciangkaiser@luciangkaiser.tmi.twitch.tv PRIVMSG #slyakagreyfox :@Nitefyre410 GaoGaiGar has the Drill Knee and he does have the Spiral Drill in Genesic GaoGaiGar >.>
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :Did I miss anything good?
+
+:voidelucidator!voidelucidator@voidelucidator.tmi.twitch.tv PRIVMSG #slyakagreyfox :!hey @Malzian
+
+:margaretbot!margaretbot@margaretbot.tmi.twitch.tv PRIVMSG #slyakagreyfox :slyHey slyHey @Malzian
+
+:veylind!veylind@veylind.tmi.twitch.tv PRIVMSG #slyakagreyfox :Firestone~!
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :>.>
+
+:nitefyre410!nitefyre410@nitefyre410.tmi.twitch.tv PRIVMSG #slyakagreyfox :hmmmm..
+
+:dojel!dojel@dojel.tmi.twitch.tv PRIVMSG #slyakagreyfox :@Malzian it was comedy
+
+:vartio!vartio@vartio.tmi.twitch.tv PRIVMSG #slyakagreyfox :To clarify: Everything, EXCEPT Goldion Hammer, that GaoGaiGar has, Genesic has AND MORE, including tech used on GUy
+
+:nobiont!nobiont@nobiont.tmi.twitch.tv PRIVMSG #slyakagreyfox :you missed all their driving "skills" >.>
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :And he wasn't able to get it in town? hapPLZB What a newb. Keepo
+
+:veylind!veylind@veylind.tmi.twitch.tv PRIVMSG #slyakagreyfox :"Is this what you call a good time sly?" hapThink
+
+:triplxgamer!triplxgamer@triplxgamer.tmi.twitch.tv PRIVMSG #slyakagreyfox :were you on each of your own streams or did you just share a ride on his @SlyAKAgreyfox
+
+:nitefyre410!nitefyre410@nitefyre410.tmi.twitch.tv PRIVMSG #slyakagreyfox :So we need an new SRW with TTG, GGG, Shin Getter, Gunbuster all in
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :So, basically... it was like playing FC5 with me and a Flamethrower. Keepo
+
+:nitefyre410!nitefyre410@nitefyre410.tmi.twitch.tv PRIVMSG #slyakagreyfox :it
+
+:triplxgamer!triplxgamer@triplxgamer.tmi.twitch.tv PRIVMSG #slyakagreyfox :nice
+
+:littlevegeta!littlevegeta@littlevegeta.tmi.twitch.tv PRIVMSG #slyakagreyfox :slyO7
+
+:nitefyre410!nitefyre410@nitefyre410.tmi.twitch.tv PRIVMSG #slyakagreyfox :and they all attack Embyro
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :I haven't bought the game... I won't be buying it again... not for $30.
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :>.>
+
+:dojel!dojel@dojel.tmi.twitch.tv PRIVMSG #slyakagreyfox :@Nitefyre410 don't speak that POC's name
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :If it was like... $15, then maybe.
+
+:malzian!malzian@malzian.tmi.twitch.tv PRIVMSG #slyakagreyfox :@SlyAKAgreyfox Also, MHW released the Hi-Res texture pack for PC.
+
+:vartio!vartio@vartio.tmi.twitch.tv PRIVMSG #slyakagreyfox

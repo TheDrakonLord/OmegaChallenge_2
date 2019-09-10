@@ -1,0 +1,26 @@
+PASS oauth:nlodm1wfq3ohrh0iw41eebqhbdyc30
+NICK mammetbot
+JOIN #thedrakonlord
+
+:tmi.twitch.tv 001 mammetbot :Welcome, GLHF!
+
+:tmi.twitch.tv 002 mammetbot :Your host is tmi.twitch.tv
+
+:tmi.twitch.tv 003 mammetbot :This server is rather new
+
+:tmi.twitch.tv 004 mammetbot :-
+
+:tmi.twitch.tv 375 mammetbot :-
+
+:tmi.twitch.tv 372 mammetbot :You are in a maze of twisty passages, all alike.
+
+:tmi.twitch.tv 376 mammetbot :>
+
+:mammetbot!mammetbot@mammetbot.tmi.twitch.tv JOIN #thedrakonlord
+
+:mammetbot.tmi.twitch.tv 353 mammetbot = #thedrakonlord :mammetbot
+
+:mammetbot.tmi.twitch.tv 366 mammetbot #thedrakonlord :End of /NAMES list
+
+:thedrakonlord!thedrakonlord@thedrakonlord.tmi.twitch.tv PRIVMSG #thedrakonlord :jfsyj
+
