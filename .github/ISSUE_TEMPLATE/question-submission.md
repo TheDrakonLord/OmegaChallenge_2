@@ -2,7 +2,7 @@
 name: Question Submission
 about: Submit a question to be included in the trivia app
 title: New Question to be added to game
-labels: enhancement
+labels: Question Submission, enhancement
 assignees: Jamiesonnc
 
 ---
