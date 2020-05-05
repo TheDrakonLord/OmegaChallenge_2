@@ -13,13 +13,11 @@ An interactive trivia game for all Final Fantasy XIV Fans
 5 Unique Rounds
  
 Play through five unique rounds. Each round features different rules such as different scoring variations and question time limits. It all leads up to the final round where you go head to head with Omega himself!
-Question Mark Square
 
 
 Automatic Scoring and Leaderboards
 
-Scores are automatically tracked and calculated. At the end of each round, the top players are shown. At the very end, a winner is declared. .
-Trophy
+Scores are automatically tracked and calculated. At the end of each round, the top players are shown. At the very end, a winner is declared.
 
 
 Twitch Integration
@@ -30,7 +28,6 @@ This game is designed to be used in conjunction with a twitch channel. When you 
 Questions Galore!
 
 We've create a large number of questions to ensure each playthrough is unique! Additionally, we also collected questions from the community. If you would like to submit questions to be used in the game, use the form or link above!
-Crown
 
 
 Themed Visuals
